@@ -15,7 +15,7 @@ Progress Update:
 
 ATM Intro UI (until Menu Page) - Completed by Sultan
 --> For more info, can refer Balance Inquiry Issue
---> Link: 
+--> Link: https://github.com/ZLX72/ATM-Setup/issues/1#issue-1616736471
 
 ATM Balance Inquiry UI - Completed by Sultan
 --> For more info, can refer Balance Inquiry Issue
