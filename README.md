@@ -1,7 +1,6 @@
 Create the wireframe design of the ATM user interface includes the main screen, the button involved, navigation between screens
 
-Link to PowerPoint Template:
-A
+Link to PowerPoint Template: https://utpmy-my.sharepoint.com/:p:/g/personal/soltan_21000865_utp_edu_my/EeWsuoNTCRpGg6czboaeAXABsyJTZrBUl_MVpLWBb2v6Sw?e=jTcHkp
 
 ---------------------------------------------------------------------
 
