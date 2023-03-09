@@ -19,7 +19,7 @@ ATM Intro UI (until Menu Page) - Completed by Sultan
 
 ATM Balance Inquiry UI - Completed by Sultan
 --> For more info, can refer Balance Inquiry Issue
---> Link: 
+--> Link: https://github.com/ZLX72/ATM-Setup/issues/2
 
 ATM Instant Transfer Module - Completed by Zahra
 --> For more info, can refer Instant Transfer Module
