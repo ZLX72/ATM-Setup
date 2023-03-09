@@ -23,7 +23,7 @@ ATM Balance Inquiry UI - Completed by Sultan
 
 ATM Instant Transfer Module - Completed by Zahra
 --> For more info, can refer Instant Transfer Module
---> Link: 
+--> Link: https://github.com/ZLX72/ATM-Setup/issues/3
 
 ATM Withdrawal Module - Completed by Aun
 --> For more info, can refer Withdrawal Module
